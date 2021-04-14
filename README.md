@@ -1,15 +1,10 @@
-# NodeJS ConsulTI Template
+# NodeJS Tarea 
 
-### Es importante no cambiar los archivos de configuración ya establecidos: No cambiar puertos de salida
-
-Este es un proyecto para demostrar el uso de la herramienta NodeJS V14
-
-## Para comenzar:
 
 ### Clonar el repositorio
 
 ```shell
-git clone https://github.com/ErickEspinozaT/consulti-template-nodejs.git
+https://github.com/ByronSilvaOlvera/TareaBy.git
 ```
 
 ### Instalar paquetes npm
@@ -17,9 +12,9 @@ git clone https://github.com/ErickEspinozaT/consulti-template-nodejs.git
 Instalar los paquetes npm descritos en el archivo `package.json` e iniciar el proyecto:
 
 ```shell
-npm install
+npm install ó npm i
 
-npm start
+npm start:dev
 ```
 
 El comando `npm start` arranca la aplicación, y se accede a traves del puerto `8080`
